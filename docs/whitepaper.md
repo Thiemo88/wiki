@@ -71,7 +71,7 @@ Where other platforms require the athlete to be an entertainer, it is more about
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Shenanigan game consists of iOns and particles using NRG cards to play. iOns are streamers, particles are viewers and She Cards will be the NFT token used in challenges. Particles are negatively and positively charged depending on their predictions**. **As you may surmise, particles that place their predictions for the ion(streamer) are positively charged, adversely predictions against the ion are negatively charged. What fuels you? Is it the support of your fans or the challenge of the opposition? At Shenanigan we incentivize athletes to improve their skills as individuals and a strong community is the foundation for this.
 
-### **3.5 Community** 🤝
+### **3.5 Community** 🤝 // I really like the community driven aspect of this project
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparable to baseball cards, NRG cards will track unique stats and attributes that pertain to the iOn. These stats will help you gain more fans because users will base their acquisitions on them. As you grow and complete more challenges we will update your NRG card to reflect those stats. Followers become more than just followers. Instead they are owners with skin in the games. Specifically the athlete’s game. Owners of an athlete’s card will want to see improvement.
 
